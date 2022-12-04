@@ -9,5 +9,4 @@ int main(int argc, char *argv[])
     encrypt(msg);
     printf("%s\n", msg);
   }
-  
 }
